@@ -4,7 +4,7 @@
 
 > Desenvolvedor com mentalidade de produto e paixão por construir soluções que resolvem problemas reais.
 
-Olá! Sou Matheus Willamy, sou natural de Fortaleza, Ceará. Minha trajetória na tecnologia começou no curso Técnico em Informática pelo **IFCE** e hoje continua na graduação em **Análise e Desenvolvimento de Sistemas**. Sou movido pela curiosidade e pela vontade de "fazer acontecer".
+Olá! Sou Matheus Willamy, sou natural de Fortaleza, Ceará. Minha trajetória na tecnologia começou no curso Técnico em Informática pelo **IFCE** e hoje continuo na graduação em **Análise e Desenvolvimento de Sistemas**. Sou movido pela curiosidade e pela vontade de "fazer acontecer".
 ### 🚀 Minha Jornada Empreendedora
 
 Acredito que a melhor forma de aprender é construindo. Por isso, fundei a **Abóbora Tech**, minha iniciativa para prestar serviços de desenvolvimento de software. Meu projeto de maior destaque foi a criação de um **sistema de gestão (SaaS)** completo.
